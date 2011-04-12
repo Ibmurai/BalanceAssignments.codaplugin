@@ -41,7 +41,7 @@ Becomes this:
 Usage
 -----
 
- *  Mark the code you want to balance.
+ *  Select the code you want to balance.
  *  Press CTRL+ALT+CMD+B
 
 Requirements

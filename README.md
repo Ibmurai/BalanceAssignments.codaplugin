@@ -26,7 +26,7 @@ It works with hashed arrays, too, so this:
         'answer' => 42,
         'salmon' => 'yummy',
         'spaghetti' => Spaghetti::with(Bolognese::getInstance()),
-        'a' => 'b'
+        'a' => 'b',
     );
 
 Becomes this:
@@ -35,7 +35,7 @@ Becomes this:
         'answer'    => 42,
         'salmon'    => 'yummy',
         'spaghetti' => Spaghetti::with(Bolognese::getInstance()),
-        'a'         => 'b'
+        'a'         => 'b',
     );
     
 Usage
